@@ -1,0 +1,16 @@
+{
+  "name": "bst",
+  "version": "1.0.0",
+  "description": "binairy search tree",
+  "main": "bst.js",
+  "scripts": {
+    "start": "bst.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
