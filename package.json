@@ -4,7 +4,7 @@
   "description": "binairy search tree",
   "main": "bst.js",
   "scripts": {
-    "start": "bst.js",
+    "start": "node bst.js",
     "test": "jest"
   },
   "author": "",
