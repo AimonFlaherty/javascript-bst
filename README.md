@@ -14,6 +14,9 @@ A simple project to work with and experiment with different functions and algori
 
 ## Current Functions
 ```
-
+insert(data) inserts data given into the bst
+```
+```
+size() traverses the bst counting all nodes, return number of nodes in bst
 ```
 ##
