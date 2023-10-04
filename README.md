@@ -14,9 +14,12 @@ A simple project to work with and experiment with different functions and algori
 
 ## Current Functions
 ```
-insert(data) inserts data given into the bst
+insert(data) inserts data given into the bst, no return
 ```
 ```
 size() traverses the bst counting all nodes, return number of nodes in bst
+```
+```
+inOrder() preforms an inorder traversal while adding a copy of each node to a list, returns an inorder list
 ```
 ##
